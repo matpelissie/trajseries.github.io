@@ -9,7 +9,7 @@ layout: default
 
 Natural systems tend to be highly *non-stationary* but such changes are often overlooked and poorly described by linear regressions. The aim of *this tool* is to offer a simple method to *characterize the trajectory of ecological time series*. The method is particularly suited to detect *abrupt changes*.
 
-![traj_images](https://github.com/matpelissie/trajseries.github.io/images/traj_images.png)
+![traj images](/docs/assets/traj_images.png)
 
 Single time series can be classified using this [*R Shiny app*](https://matpelissie.shinyapps.io/trajshift_app/).
 
